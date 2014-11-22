@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.use('mrt:moment', 'client');
-  api.use('urigo:angular', 'client');
+  api.use('mrt:moment@1.7.0', 'client');
+  api.use('urigo:angular@0.5.7', 'client');
   api.addFiles('lib/angular-moment/angular-moment.js', 'client');
 });
