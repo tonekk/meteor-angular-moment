@@ -1,0 +1,3 @@
+[submodule "lib/angular-moment"]
+	path = lib/angular-moment
+	url = https://github.com/urish/angular-moment.git
