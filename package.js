@@ -1,7 +1,7 @@
 Package.describe({
   name: 'tonekk:angular-moment',
   summary: 'moment.js AngularJS directives in MeteorJS. What else.',
-  version: '1.0.0',
+  version: '1.0.2',
   git: 'https://github.com/tonekk/meteor-angular-moment'
 });
 
