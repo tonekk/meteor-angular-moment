@@ -8,7 +8,7 @@ Use the [moment](https://github.com/moment/moment) [AngularJS](https://github.co
 ## Installation
 
 For Meteor v0.9.0 and above:
-`meteor add mrt:moment`
+`meteor add tonekk:angular-moment`
 
 **Meteor < 0.9 is not supported! 1.0 is out, get it ;)**
 
